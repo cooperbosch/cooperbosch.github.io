@@ -1,3 +1,24 @@
-body {background-color: blanchedalmond;}
-h1   {color: brown;}
-p    {color: blue;}
+body {background-color: moccasin;}
+
+h1 {
+    color: grey; 
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size:xx-large;
+    margin: 25px 50px 25px 50px;  /* Top right bottom left*/
+}
+
+h2 {
+    color: grey; 
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size:large;
+    margin: 25px 50px 25px 50px;
+}
+
+p  {
+    color: green;
+    font-family: "Lucida Console", monospace;
+    font-size:large;
+    margin: 25px 50px 25px 50px;
+}
