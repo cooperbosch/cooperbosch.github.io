@@ -2,7 +2,7 @@ body {background-color: rgb(240, 243, 237);}
 
 h1 {
     color: rgb(0,0,0); 
-    text-align: center;
+    text-align: left;
     font-family: "Palatino", monospace;
     font-size:xx-large;
     margin: 25px 50px 25px 50px;  /* Top right bottom left*/
@@ -21,8 +21,18 @@ p  {
     font-family: "Times", monospace;
     font-size:large;
     margin: 25px 50px 25px 50px;
+    max-width: 500px;
 }
 
 table {
     margin: 0 auto;
 }
+
+figcaption {
+    font-size: small;
+    text-align: center;
+}
+
+div.container {
+    display:inline-block;
+  }
