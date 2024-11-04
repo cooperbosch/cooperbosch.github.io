@@ -1,24 +1,28 @@
-body {background-color: moccasin;}
+body {background-color: rgb(240, 243, 237);}
 
 h1 {
-    color: grey; 
+    color: rgb(0,0,0); 
     text-align: center;
-    font-family: "Lucida Console", monospace;
+    font-family: "Palatino", monospace;
     font-size:xx-large;
     margin: 25px 50px 25px 50px;  /* Top right bottom left*/
 }
 
 h2 {
-    color: grey; 
+    color: rgb(0,0,0); 
     text-align: center;
-    font-family: "Lucida Console", monospace;
+    font-family: "Times", monospace;
     font-size:large;
     margin: 25px 50px 25px 50px;
 }
 
 p  {
-    color: green;
-    font-family: "Lucida Console", monospace;
+    color: rgb(10,10,10);
+    font-family: "Times", monospace;
     font-size:large;
     margin: 25px 50px 25px 50px;
+}
+
+table {
+    margin: 0 auto;
 }
